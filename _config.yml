@@ -11,7 +11,7 @@ github_repo: "https://github.com/LiefB/LiefB.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "No Limit for Yourself!"
+sidebar-about-description: "Life is No Limit"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -100,9 +100,9 @@ service-worker: true
 friends: [
     {
         title: "史胜旺",
-        href: "https://coolmarloon.github.io"
+        href: "https://coolmarlon.github.io"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "简书",
+        href: "https://www.jianshu.com/"
     }
 ]

@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "史胜旺",
-        href: "https://coolMarloon.github.io"
+        href: "https://coolmarloon.github.io"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
